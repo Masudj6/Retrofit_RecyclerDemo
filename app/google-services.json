@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890907006176",
+    "firebase_url": "https://retrofitnotification.firebaseio.com",
+    "project_id": "retrofitnotification",
+    "storage_bucket": "retrofitnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890907006176:android:80850678f1faf701",
+        "android_client_info": {
+          "package_name": "com.example.masud.retrofit_and_recycler_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890907006176-l3fpks4f8r3bk1jvo9nkm76ol7pvsct1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masud.retrofit_and_recycler_demo",
+            "certificate_hash": "1bbb10fc35d90b352f22ec3275470e6099b962e3"
+          }
+        },
+        {
+          "client_id": "890907006176-cim4dg8j6d96ljjfrf2fjl6jj3ocia9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnIyKp1MCimRYT6LMcQLgYU8XP-Pi3xA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890907006176-cim4dg8j6d96ljjfrf2fjl6jj3ocia9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
